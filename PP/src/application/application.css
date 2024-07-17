@@ -1,0 +1,13 @@
+
+.sidebar{
+	-fx-background-color: #d3d3d3;
+}
+.upload-music-btn{
+	-fx-background-color: #397DFF;
+	-fx-background-radius: 10px;
+}
+
+.white-round-strip{
+	-fx-background-color: #fff;
+	-fx-background-radius: 10px;
+	}

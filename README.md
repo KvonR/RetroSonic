@@ -1,12 +1,6 @@
-# COMP390 2023/24
-
-![Untitled](COMP390%202023%2024%2030189693514d4228ba1931b0c0fb8f0b/Untitled.png)
+# 2023/24
 
 ## RetroSonic Music Player
-
-DEPARTMENT OF COMPUTER SCIENCE
-
-University of Liverpool Liverpool L69 3BX
 
 # Abstract
 
